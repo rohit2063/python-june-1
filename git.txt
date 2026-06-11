@@ -1,0 +1,15 @@
+local
+remote
+
+repo
+.gitignore
+
+remote url
+
+public
+private
+ssh
+
+git branch
+git branch test_branch_2
+git checkout test_branch_2
