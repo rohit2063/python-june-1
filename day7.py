@@ -89,5 +89,3 @@ for i in range(1,6):
         break
     else:
         print("Wrong")
-
-    print (data)
