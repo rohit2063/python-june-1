@@ -39,5 +39,5 @@ print(not (a>b))
 # And operator
 val1 = False
 val2 = True
-print("And operator:", val2 and val2)
+print("And operator:", val1 and val2)
 print("OR Operator:", val1 or val2)
