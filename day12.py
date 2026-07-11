@@ -49,3 +49,5 @@ print(data)
 n = lambda a : [i*i for i in a]
 print(n([1,2,3,4,5]))
 # Hello worldHello worldHello world
+
+"Hello world"
